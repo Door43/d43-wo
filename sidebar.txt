@@ -10,6 +10,10 @@
 
   * [[wo:obs|Open Bible Stories (wo)]]
 
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wo|d43-wo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wo/archive/master.zip|d43-wo.zip]]
+
 **Recent Changes**
 {{changes>ns = wo}}
 
