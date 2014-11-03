@@ -1,7 +1,7 @@
 ====== 4. God’s Covenant with Abraham ======
 
 
-[[https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-01.jpg?media=https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-04-01.jpg|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-01.jpg?nolink&}}]]
+[[https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-01.jpg?media=https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-04-01.jpg|{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-01.jpg?nolink&}}]]
 
 
 Many years after the flood, there were again many people in the world, and they all spoke the same language. Instead of filling the earth as God had commanded, they gathered together and built a city.
@@ -11,7 +11,7 @@ Bi yahu ndor bi pare chi aat you bari bari, amon ma wat ay nit you bari ci birr 
 Te nju warra fesal aduna bi com niko Yalla dige, ngu dajaloo bena berep tabax far teeru.
 
 
-[[https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-02.jpg?media=https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-04-02.jpg|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-02.jpg?nolink&}}]]
+[[https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-02.jpg?media=https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-04-02.jpg|{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-02.jpg?nolink&}}]]
 
 
 They were very proud, and they did not care about what God said. They even began building a tall tower to reach heaven. God saw that if they all kept working together to do evil, they could do many more sinful things.
@@ -19,7 +19,7 @@ They were very proud, and they did not care about what God said. They even began
 
 Nju neko nit nju fuuy, te nyakal fula battu Yalla. te sah ngu bor di tabax tabax bu njool jemale ko asama.\\ 
 Yalla gis ne bungu dekke bena berep di nangu def lu bon, di nangu genna bakar.\\ 
-[[https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-03.jpg?media=https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-04-03.jpg|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-03.jpg?nolink&}}]]
+[[https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-03.jpg?media=https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-04-03.jpg|{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-03.jpg?nolink&}}]]
 
 
 So God changed their language into many different languages and spread the people out all over the world. The city they had begun to build was called Babel, which means, "confused."
@@ -30,7 +30,7 @@ Teeru ngung tambale tabax mugi tudda Babel, mu tekki, "jaxaso."
 
 
 \\ 
-[[https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-04.jpg?media=https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-04-04.jpg|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-04.jpg?nolink&}}]]
+[[https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-04.jpg?media=https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-04-04.jpg|{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-04.jpg?nolink&}}]]
 
 
 Hundreds of years later, God spoke to a man named Abram. God told him, "Leave your country and family and go to the land I will show you. I will bless you and make you a great nation. I will make your name great. I will bless those who bless you and curse those who curse you. All families on earth will be blessed because of you."
@@ -39,7 +39,7 @@ Hundreds of years later, God spoke to a man named Abram. God told him, "Leave yo
 Ay teemeeru at you romba, Yalla wah ak gor bu tudda Abram. Yalla neko, "bayel sa dekk ak sa jaboot de nga dem berreb bi malay won. Di nala barke te defla dekk bu rey. Di na mangal sa tur. Di na barke kepp kula barke te halakk kula halakk. Bepp jabot chi adunaci dina am barkebu joge chi yow."
 
 
-[[https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-05.jpg?media=https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-04-05.jpg|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-05.jpg?nolink&}}]]
+[[https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-05.jpg?media=https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-04-05.jpg|{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-05.jpg?nolink&}}]]
 
 
 So Abram obeyed God. He took his wife, Sarai, together with all of his servants and everything he owned and went to the land God showed him, the land of Canaan.
@@ -48,31 +48,33 @@ So Abram obeyed God. He took his wife, Sarai, together with all of his servants 
 Abram daldi gom Yalla. mu jel jabaram, bolle legayekatam ey ak lepp lim am te dem berreb bako Yalla nara won, berrebu Canaan.
 
 
-[[https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-06.jpg?media=https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-04-06.jpg|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-06.jpg?nolink&}}]]
+[[https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-06.jpg?media=https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-04-06.jpg|{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-06.jpg?nolink&}}]]
 
 
 When Abram arrived in Canaan, God said, "Look all around you. I will give to you and your descendants all the land that you can see as an inheritance." Then Abram settled in the land.
 
 
 Bey Abram agey Canaan, Yalla wah ne, "holal fi yep. Di nala yok ak sa jaboot berreb bi yep ngay gis nee mu don sen donna." Abraham daldi toog chi berreb ba.\\ 
-[[https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-07.jpg?media=https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-04-07.jpg|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-07.jpg?nolink&}}]]
+[[https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-07.jpg?media=https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-04-07.jpg|{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-07.jpg?nolink&}}]]
 
 
 One day, Abram met Melchizedek, the priest of God Most High. Melchizedek blessed Abram and said, "May God Most High who owns heaven and earth bless Abram." Then Abram gave Melchizedek a tenth of all he owned.
 
 
 Ben bes, Abram feki Melchizesek, laabe Yalla Bu Magbi. Melchizedek barki Abram te ne, "Yalna la Yalla Bu Magbi ku mom asaman ak suf barke Abram."Abram daldi joxe Melchizedek fekk chi limu am lepp.\\ 
-[[https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-08.jpg?media=https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-04-08.jpg|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-08.jpg?nolink&}}]]
+[[https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-08.jpg?media=https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-04-08.jpg|{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-08.jpg?nolink&}}]]
 
 
 Many years went by, but Abram and Sarai still did not have a son. God spoke to Abram and promised again that he would have a son and as many descendants as the stars in the sky. Abram believed God's promise. God declared that Abram was righteous because he believed in God's promise.
 
 
 Chi at you barri you jala, weey Abram ak Sarai betey amungu dom. Yalla wah ak Abram te digat ko ne dina am dom bu gor te jaboot tami dina ngu sakan kon betewu jawogi. Abram gom dige Yalla bi. Yalla feengal ne Abram ku jub la mo tah mu gom dige Yalla bi.\\ 
-[[https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-09.jpg?media=https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-04-09.jpg|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-09.jpg?nolink&}}]]
+[[https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-09.jpg?media=https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-04-09.jpg|{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-09.jpg?nolink&}}]]
 
 
 Then God made a covenant with Abram. A covenant is an agreement between two parties. God said, "I will give you a son from your own body. I give the land of Canaan to your descendants." But Abram still did not have a son.
 
 
+Yalla nak ginn gal Abram. Ginn moy manaam mankoo digante narri nit. Yalla ne, "Di na la maye doom bu gor bu jogay chi yow.\\ 
+Joh nala sufu Canaan pour sa jaboot gi." Waye be tay Abram amagul doom.\\ 
 //A Bible story from: Genesis 11-15//
