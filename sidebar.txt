@@ -17,10 +17,6 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 **Recent Changes**
 {{changes>ns = wo}}
 
-**Latest Status**
-{{page>en:uwadmin:wo:obs:status}}
-
-
 **Language Information**
 
 [[http://www.ethnologue.com/language/wo|Ethnologue data]]
